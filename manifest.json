@@ -1,0 +1,39 @@
+{
+  "name": "rizqyfatrias",
+  "short_name": "RizqyFatrias",
+  "scope": "https://www.rizqyfatrias.com/",
+  "start_url": "https://www.rizqyfatrias.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#000ff",
+  "description": "Blog tentang ngaji (ngatur jiwa) dan ngopi (ngolah pikiran)",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjFR3EVmdX9xFrc8zclG2ST75edYNaYQU4EV_UAOdIHdBxpcAQEQggQ0Jxx_57-08-5ZuMnYPgDRTbolmdJZLu-V02fBUf_39bvpPZPVkFlj3pa-HekMK586DVJNdkPjnDMb_KlbJXvYfQrlisoE4656rztpNwKWrOK3k2Qbnap7-CQCIq9AKGvun/s48/Favicon%20rizqyfatrias.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjFR3EVmdX9xFrc8zclG2ST75edYNaYQU4EV_UAOdIHdBxpcAQEQggQ0Jxx_57-08-5ZuMnYPgDRTbolmdJZLu-V02fBUf_39bvpPZPVkFlj3pa-HekMK586DVJNdkPjnDMb_KlbJXvYfQrlisoE4656rztpNwKWrOK3k2Qbnap7-CQCIq9AKGvun/s72/Favicon%20rizqyfatrias.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjFR3EVmdX9xFrc8zclG2ST75edYNaYQU4EV_UAOdIHdBxpcAQEQggQ0Jxx_57-08-5ZuMnYPgDRTbolmdJZLu-V02fBUf_39bvpPZPVkFlj3pa-HekMK586DVJNdkPjnDMb_KlbJXvYfQrlisoE4656rztpNwKWrOK3k2Qbnap7-CQCIq9AKGvun/s96/Favicon%20rizqyfatrias.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjFR3EVmdX9xFrc8zclG2ST75edYNaYQU4EV_UAOdIHdBxpcAQEQggQ0Jxx_57-08-5ZuMnYPgDRTbolmdJZLu-V02fBUf_39bvpPZPVkFlj3pa-HekMK586DVJNdkPjnDMb_KlbJXvYfQrlisoE4656rztpNwKWrOK3k2Qbnap7-CQCIq9AKGvun/s144/Favicon%20rizqyfatrias.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjFR3EVmdX9xFrc8zclG2ST75edYNaYQU4EV_UAOdIHdBxpcAQEQggQ0Jxx_57-08-5ZuMnYPgDRTbolmdJZLu-V02fBUf_39bvpPZPVkFlj3pa-HekMK586DVJNdkPjnDMb_KlbJXvYfQrlisoE4656rztpNwKWrOK3k2Qbnap7-CQCIq9AKGvun/s168/Favicon%20rizqyfatrias.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjFR3EVmdX9xFrc8zclG2ST75edYNaYQU4EV_UAOdIHdBxpcAQEQggQ0Jxx_57-08-5ZuMnYPgDRTbolmdJZLu-V02fBUf_39bvpPZPVkFlj3pa-HekMK586DVJNdkPjnDMb_KlbJXvYfQrlisoE4656rztpNwKWrOK3k2Qbnap7-CQCIq9AKGvun/s192/Favicon%20rizqyfatrias.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsjFR3EVmdX9xFrc8zclG2ST75edYNaYQU4EV_UAOdIHdBxpcAQEQggQ0Jxx_57-08-5ZuMnYPgDRTbolmdJZLu-V02fBUf_39bvpPZPVkFlj3pa-HekMK586DVJNdkPjnDMb_KlbJXvYfQrlisoE4656rztpNwKWrOK3k2Qbnap7-CQCIq9AKGvun/s512/Favicon%20rizqyfatrias.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
